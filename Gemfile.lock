@@ -128,11 +128,11 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 3.1.0)
+  debugger
   haml
   jquery-rails
   pg
   rails (= 3.1.0)
-  ruby-debug19
   sass-rails (~> 3.1.0)
   sqlite3
   therubyracer

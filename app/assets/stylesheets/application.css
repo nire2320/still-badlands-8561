@@ -49,8 +49,6 @@ table#movies th, table#movies td {
   text-align: left;
 }
 table#movies th.hilite {
-  border: 2px solid white;
-  font-weight: bold;
   background-color: yellow;
 }
 #notice #warning {

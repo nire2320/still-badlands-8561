@@ -1,3 +1,5 @@
+# Code sampled from https://github.com/saasbook/hw3_rottenpotatoes/
+
 class MoviesController < ApplicationController
 
   @@sort_var = 0
